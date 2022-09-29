@@ -1,0 +1,3 @@
+[submodule "karaoke"]
+	path = karaoke
+	url = https://github.com/KIYO1234/karaoke.git
